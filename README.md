@@ -18,23 +18,22 @@ A modern **React Travel Booking Application** where users can explore destinatio
 - 🎯 Clean UI with responsive design
 
 ---
-
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home](./scr/assets/1.png)
+![Home](./src/assets/1.png)
 
 ### 📄 Detail Page
-![Detail](./scr/assets/2.png)
+![Detail](./src/assets/2.png)
 
 ### 🔐 Login Page
-![Login](./scr/assets/3.png)
+![Login](./src/assets/3.png)
 
 ### 🧳 My Trips
-![Trips](./scr/assets/4.png)
+![Trips](./src/assets/4.png)
 
 ### ✅ Booking Success
-![Booking](./scr/assets/5.png)
+![Booking](./src/assets/5.png)
 
 ---
 
